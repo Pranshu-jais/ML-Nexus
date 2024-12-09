@@ -53,3 +53,7 @@ This project creates a gesture-controlled virtual calculator, allowing users to 
 
 
 ![2024-10-05 16-44-41-69](https://github.com/user-attachments/assets/bd0af8d4-dd66-435d-b7c7-789c5d3209ca)
+
+
+https://github.com/user-attachments/assets/96cd91e2-9af8-4c65-bab5-cc923dec7787
+
